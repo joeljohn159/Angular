@@ -1,2 +1,2 @@
 CLICK ME TO VIEW Deployed site :
-https://joeljohn159.github.io/Angular/Angular/
+https://joeljohn159.github.io/Angular/
